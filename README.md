@@ -33,7 +33,7 @@ All my projects reflect the self knowledge and school project I work on and part
 
 ### - 🔭 I’m currently working on ...
 
-Capstone Project on SrcML.
+Capstone master Project:  SrcML Web application.
 
 
 
