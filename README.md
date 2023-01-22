@@ -1,11 +1,47 @@
+# Galekwan Sango
+
+**`Full Stack / Front End / Back End / developer `**
+
 ### Hi there 👋
+
+I am a Junior  Software engineer from DR Congo currently majoring in the Software Engineering gradaute program of Rochester Institute of Technology. My passion for technology stream from a young age and I always have been interested in problem solving and learning how things work. I remember I was dismentatling electronic devices at 10 to see what was inside when they broke in an attempt of fixing them. Sometimes it works by pure luck but most of the time it didn't.
+
+That passion translated to Software Engineering, more specifdically web developmement in which my expeertise 
+
+----
+
+### Progamming Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+#
+
+### Statistic
+
+![Galekwan Sango's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs5570&show_icons=true&theme=gruvbox)
+
+#
+
+### - 🔭 I’m currently working on ...
+
+Capstone Project on SrcML.
+
+
 
 <!--
 **Gs5570/Gs5570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
