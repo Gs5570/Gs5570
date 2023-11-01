@@ -23,13 +23,7 @@ All my projects reflect the self knowledge and school project I work on and part
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-#
 
-### Statistic
-
-![Galekwan Sango's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs5570&show_icons=true&theme=gruvbox)
-
-#
 
 ### - 🔭 I’m currently working on ...
 
