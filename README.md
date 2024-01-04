@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am a Junior  Software engineer from DR Congo currently majoring in the Software Engineering gradaute program of Rochester Institute of Technology. My passion for technology stream from a young age and I always have been interested in problem solving and learning how things work. I remember I was dismentatling electronic devices at 10 to see what was inside when they broke in an attempt of fixing them. Sometimes it works by pure luck but most of the time it didn't.
+I am a Software engineer from DR Congo currently majoring in the Software Engineering gradaute program of Rochester Institute of Technology. My passion for technology stream from a young age and I always have been interested in problem solving and learning how things work. I remember I was dismentatling electronic devices at 10 to see what was inside when they broke in an attempt of fixing them. Sometimes it works by pure luck but most of the time it didn't.
 
 That passion translated to Software Engineering, more specifdically in web developmement. My intent is to go full stack, but I like the front end better.
 All my projects reflect the self knowledge and school project I work on and participated with other fellow classmates.
